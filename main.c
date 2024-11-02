@@ -1,0 +1,5 @@
+main() {
+
+	factorial();
+	biggest3();
+}
